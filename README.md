@@ -7,6 +7,6 @@ Protecting mangrove forests is very important because these forests provide exte
   <a href="https://github.com/azrsyd/Rational-Fractal-Interpolation-on-Satellite-Image-Super-Resolution/blob/main/Diagram%20implementasi.jpg"><img src="Diagram implementasi.jpg" alt="Rational-Fractal-Interpolation-on-Satellite-Image-Super-Resolution" width="800" border="0"></a>
 </p>
 
-##Demo
+## Demo
 The program demo can be run on the [demo.m](demo.m) file by placing all function files in the same folder. A demo using GUI is also available in the [Demo_GUI](Demo_GUI.mlapp) file.
 
